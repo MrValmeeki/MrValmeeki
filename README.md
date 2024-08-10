@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **anything you can help me with**
 
-- 📫 How to reach me **boku.wa.atharv@gmail.com**
+- 📫 How to reach me **its.atrv@gmail.com**
 
 - ⚡ Fun fact **I am dum**
 
