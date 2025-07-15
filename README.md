@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrvalmeeki" alt="mrvalmeeki" /></a> </p>
 
-- 🌱 I’m currently learning **C++, HTML, php and javascript**
+- 🌱 I can work with **C, C++, HTML, php, python, GDScript and javascript**
 
-- 🤝 I’m looking for help with **anything you can help me with**
+- 🤝 I’m currently pursuing a **B.Tech in Robotics and AI**
 
 - 📫 How to reach me **its.atrv@gmail.com**
 
