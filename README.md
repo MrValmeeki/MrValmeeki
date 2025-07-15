@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **its.atrv@gmail.com**
 
-- ⚡ Fun fact **I am dum**
+- ⚡ Fun fact **I always try to learn new things to develop myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
