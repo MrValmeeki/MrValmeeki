@@ -23,7 +23,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/its_atrv">
     <img src="https://img.shields.io/badge/Instagram-DC4A47?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
