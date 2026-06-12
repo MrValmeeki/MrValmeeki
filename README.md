@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm MrValmeeki</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF003C&center=true&vCenter=true&width=700&lines=Robotics+%26+AI+Engineering+Student;Building+Cool+Projects;Learning+Something+New+Every+Day;Aspiring+Developer+%26+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BBF783&center=true&vCenter=true&width=700&lines=Robotics+%26+AI+Engineering+Student;Building+Cool+Projects;Learning+Something+New+Every+Day;Aspiring+Developer+%26+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrvalmeeki&label=Profile%20Views&color=FF003C&style=for-the-badge" alt="mrvalmeeki" />
+  <img src="https://komarev.com/ghpvc/?username=mrvalmeeki&label=Profile%20Views&color=DC4A47&style=for-the-badge" alt="mrvalmeeki" />
 </p>
 
 ---
@@ -17,7 +17,6 @@
 * 🤖 Pursuing a **B.Tech in Robotics and AI**
 * 🚀 Interested in **Artificial Intelligence, Robotics, Automation & Software Development**
 * 🎮 Building projects and experimenting with new technologies
-* 📫 Reach me at **[its.atrv@gmail.com](mailto:its.atrv@gmail.com)**
 * ⚡ Fun fact: **I enjoy learning new technologies and turning ideas into projects**
 
 
@@ -26,7 +25,11 @@
 
 <p align="center">
   <a href="https://instagram.com/its_atrv">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45" />
+    <img src="https://img.shields.io/badge/Instagram-DC4A47?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:its.atrv@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-DC4A47?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
