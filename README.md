@@ -29,7 +29,7 @@
   </a>
 
   <a href="mailto:its.atrv@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-DC4A47?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-BBF783?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
 
