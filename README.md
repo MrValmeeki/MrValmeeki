@@ -14,7 +14,6 @@
 
 ##  About Me
 
-* 🌱 Currently learning **C, C++, HTML, PHP, Python, JavaScript & GDScript**
 * 🤖 Pursuing a **B.Tech in Robotics and AI**
 * 🚀 Interested in **Artificial Intelligence, Robotics, Automation & Software Development**
 * 🎮 Building projects and experimenting with new technologies
