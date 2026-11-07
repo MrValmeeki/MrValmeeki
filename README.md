@@ -12,14 +12,12 @@
 
 ---
 
-##  About Me
+## About Me
 
 * 🤖 Pursuing a **B.Tech in Robotics and AI**
 * 🚀 Interested in **Artificial Intelligence, Robotics, Automation & Software Development**
 * 🎮 Building projects and experimenting with new technologies
 * ⚡ Fun fact: **I enjoy learning new technologies and turning ideas into projects**
-
-
 
 ## 🌐 Connect With Me
 
@@ -33,15 +31,11 @@
   </a>
 </p>
 
-
-
 ## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,php,html,js,git,github,vscode,linux,godot" />
 </p>
-
-
 
 ## GitHub Stats
 
@@ -61,17 +55,18 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrvalmeeki&theme=radical" />
 </p>
 
-
-
 ## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrvalmeeki&theme=react-dark&hide_border=true" />
 </p>
 
+---
+
+## 🐟 My Git Koi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrvalmeeki/mrvalmeeki/output/github-contribution-grid-snake-dark.svg" />
+  <img src="koi/koi.gif" width="256" alt="My Git Koi" />
 </p>
 
 ---
